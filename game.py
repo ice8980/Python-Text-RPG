@@ -19,5 +19,12 @@ class cube(object):
         self.color = color  
 def space(object):
     guns = 30
-    lasers = 40
-   
+    lasers = 40\
+
+daya = "Today is A day"
+dayb =  " Today is B day"
+dayc =  "Today is C day"
+dayd = "Today is D day"
+
+if message.content.says("!whatdayisit"):
+    else message.content.send("It is")
